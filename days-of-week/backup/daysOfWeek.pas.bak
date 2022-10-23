@@ -5,7 +5,7 @@ label loop;
 
 procedure showContinueMsg();
 begin
-  writeln('Enter to continue.');
+  writeln('Enter to continue');
   readln();
 end;
 
