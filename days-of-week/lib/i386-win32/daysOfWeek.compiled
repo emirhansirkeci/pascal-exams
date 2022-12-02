@@ -2,4 +2,5 @@
 <CONFIG>
   <Compiler Value="C:\lazarus\fpc\3.0.0\bin\i386-win32\fpc.exe" Date="1231857874"/>
   <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\micro\Desktop\Pascal Exams\days-of-week\lib\i386-win32&quot; &quot;-FuC:\Users\micro\Desktop\Pascal Exams\days-of-week\&quot; &quot;-FUC:\Users\micro\Desktop\Pascal Exams\days-of-week\lib\i386-win32\&quot; daysOfWeek.pas"/>
+  <Complete Value="False"/>
 </CONFIG>
