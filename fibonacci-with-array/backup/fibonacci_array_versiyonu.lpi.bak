@@ -10,7 +10,7 @@
       </Flags>
       <SessionStorage Value="InProjectDir"/>
       <MainUnit Value="0"/>
-      <Title Value="fibonacciWithArrays"/>
+      <Title Value="fibonacci_array_versiyonu"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
@@ -33,7 +33,7 @@
     </RunParams>
     <Units Count="1">
       <Unit0>
-        <Filename Value="fibonacciWithArrays.pas"/>
+        <Filename Value="fibonacci_array_versiyonu.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit0>
     </Units>
@@ -42,7 +42,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="fibonacciWithArrays"/>
+      <Filename Value="fibonacci_array_versiyonu"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>

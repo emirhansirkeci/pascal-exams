@@ -38,7 +38,7 @@ begin
   readln(adet);
 
   if adet <= 0 then begin
-    write('Gecersiz sayi girisi yaptiniz devam etmek icin bir tusa basin.');
+    write('Gecersiz sayi girisi yaptiniz devam etmek icin bir tusa basin...');
     readln;
     clrscr;
     goto tekrarSor;
